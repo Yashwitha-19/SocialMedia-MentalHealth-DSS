@@ -18,5 +18,6 @@ It helps identify users at Low, Medium, or High risk for mental health issues ba
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Yashwitha-19/SocialMedia-MentalHealth-DSS.git
+
 
