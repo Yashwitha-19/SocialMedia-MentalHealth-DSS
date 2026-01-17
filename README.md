@@ -19,3 +19,27 @@ It helps identify users at Low, Medium, or High risk for mental health issues ba
 1. Clone the repository:  
 ```bash
 git clone <your-repo-url>
+
+##DSS Logic
+
+Decision rule:
+
+High Risk → Daily screen time > 5 hours AND Depression ≥ 4
+
+Medium Risk → Daily screen time > 3 hours
+
+Low Risk → Otherwise
+
+Output: Each user classified as Low, Medium, or High risk.
+
+Supports decisions for mental health interventions.
+
+Results
+
+Risk distribution (example):
+
+Low Risk → 42.6%
+
+Medium Risk → 42.4%
+
+High Risk → 15.0%
