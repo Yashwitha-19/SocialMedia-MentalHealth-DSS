@@ -20,4 +20,11 @@ It helps identify users at Low, Medium, or High risk for mental health issues ba
 ```bash
 git clone https://github.com/Yashwitha-19/SocialMedia-MentalHealth-DSS.git
 
+## Screenshots of DSS Output
+
+**Risk Distribution Bar Chart**
+![Risk Bar Chart](results/charts/risk_bar_chart.png)
+
+**Risk Distribution Pie Chart**
+![Risk Pie Chart](results/charts/risk_pie_chart.png)
 
