@@ -1,2 +1,4 @@
-# SocialMedia-MentalHealth-DSS
-Decision Support System for Social Media and Mental Health
+# Social Media Mental Health DSS
+
+This project studies how social media usage affects mental health
+using data analysis and visualizations.
